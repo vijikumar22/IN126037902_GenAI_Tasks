@@ -1,0 +1,17 @@
+Name: Anush
+
+Summary:
+I work with data and like finding useful insights. I am improving my skills in data science.
+
+Skills:
+Python, SQL, basic Machine Learning, Tableau, Matplotlib
+
+Experience:
+2 years as Data Analyst
+
+Work:
+Analyzed data and created reports.
+Built simple ML models for small tasks.
+
+Education:
+B.Sc in Statistics

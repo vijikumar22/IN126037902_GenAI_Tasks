@@ -1,0 +1,12 @@
+Job Title: Data Scientist
+
+We are looking for a Data Scientist who can work with data, find patterns, and help in making better business decisions.
+
+Skills:
+Python, SQL, Machine Learning, Deep Learning, Data Visualization, Big Data tools
+
+Experience:
+2+ years in data-related work
+
+Nice to have:
+Good understanding of statistics, problem solving, and interest in AI/ML

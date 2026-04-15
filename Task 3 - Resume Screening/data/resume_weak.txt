@@ -1,0 +1,17 @@
+Name: Sanjay
+
+Summary:
+I am interested in technology and learning new skills.
+
+Skills:
+Java, HTML, CSS, basic Python, MS Office
+
+Experience:
+1 year internship
+
+Work:
+Worked on basic web development tasks.
+Helped in small projects and testing.
+
+Education:
+B.E in Computer Science

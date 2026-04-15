@@ -1,0 +1,17 @@
+Name: Vijay Kumar
+
+Summary:
+I am a Data Scientist with good experience in machine learning and data analysis. I enjoy working with data and solving real-world problems.
+
+Skills:
+Python, SQL, R, Machine Learning, Deep Learning, NLP, TensorFlow, PyTorch, Spark, Hadoop, Tableau
+
+Experience:
+3 years in data science
+
+Work:
+Worked on ML models for prediction and NLP tasks.
+Handled large datasets and created dashboards.
+
+Education:
+M.Tech in Computer Science
