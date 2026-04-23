@@ -1,0 +1,5 @@
+langchain
+langgraph
+chromadb
+pypdf
+langchain-community
